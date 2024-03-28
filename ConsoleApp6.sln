@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{2DC4604A-6B91-49F7-AFC2-7930DDA0C69E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 8. ДЗ Арифм. операции", "Тема 8. ДЗ Арифм. операции\Тема 8. ДЗ Арифм. операции.csproj", "{987EFA1E-7A65-4403-BF1C-6CFC82450382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC4604A-6B91-49F7-AFC2-7930DDA0C69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC4604A-6B91-49F7-AFC2-7930DDA0C69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC4604A-6B91-49F7-AFC2-7930DDA0C69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC4604A-6B91-49F7-AFC2-7930DDA0C69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987EFA1E-7A65-4403-BF1C-6CFC82450382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987EFA1E-7A65-4403-BF1C-6CFC82450382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987EFA1E-7A65-4403-BF1C-6CFC82450382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987EFA1E-7A65-4403-BF1C-6CFC82450382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC2BB3C-934F-4E64-9DA9-616224CAE6C8}
+	EndGlobalSection
+EndGlobal
