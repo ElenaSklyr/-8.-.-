@@ -22,6 +22,13 @@ int x = 256;
 Console.WriteLine(x.GetType());
 string number = x.ToString();
 Console.WriteLine(number.GetType());
+Console.WriteLine(x);
+
+string number1 = "361";
+Console.WriteLine(number1.GetType());
+int number2 = int.Parse(number1);
+Console.WriteLine(number2.GetType());
+Console.WriteLine(number1);
 
 
 
